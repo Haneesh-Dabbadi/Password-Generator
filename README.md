@@ -13,3 +13,9 @@ A Python project that generates secure, customizable passwords based on user inp
 3. Choose whether to include numbers and/or special characters.
 
 ## Example Output:
+The generated password is: h7e7Pz,S
+
+Feel free to clone, fork, or contribute!
+
+## License
+This project is licensed under the MIT License.
